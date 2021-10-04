@@ -1,0 +1,62 @@
+Group=Admin:kick,ban,changemap,cameraman,chat,reserve,canseeadminchat,pause,cheat,forceteamchange,balance,private,teamchange,featuretest,immunity,ClientDemos,
+Group=Moderator:kick,ban,cameraman,chat,reserve,canseeadminchat,forceteamchange,chat,balance,teamchange,
+Group=ModeratorStreamer:kick,ban,cameraman,chat,reserve,canseeadminchat,forceteamchange,chat,balance,teamchange,ClientDemos,
+Group=TrialModerator:kick,reserve,canseeadminchat,chat,balance,teamchange,cameraman,
+
+// ~~~~~~~~~~~~~~~ Community Managers ~~~~~~~~~~~~~~~~~~~~~
+Admin=76561198888089585:Admin  // =SEALZ= 12bravo 
+Admin=76561198033498575:Admin  // =SEALZ= Butcher_Ak
+Admin=76561198102970252:Admin  // =SEALZ= AlaskanBadger
+Admin=76561198053274957:Admin  // =SEALZ= Foxzimm
+Admin=76561197966338911:Admin  // =SEALZ= Sputnik3322
+Admin=76561198075097310:Admin  // =SEALZ= Soren
+Admin=76561198121570892:Admin  // =SEALZ= Manty
+Admin=76561197975628855:Admin  // =SEALZ= AgtDouble0
+Admin=76561197969900721:Admin  // =SEALZ= Hawk
+Admin=76561197996209375:Admin  // Lucky Strike
+
+// ~~~~~~~~~~~~~~~~~ SEALZ Server Admins ~~~~~~~~~~~~~~~~~~~~~~~~
+Admin=76561198921646604:Moderator  // =SEALZ= TLH
+Admin=76561198811920019:Moderator  // =SEALZ= Brett1g
+Admin=76561198121570892:Moderator  // =SEALZ= Manty 
+Admin=76561198004441263:Moderator  // =SEALZ= Specter246
+Admin=76561198080819113:Moderator  // =SEALZ= Loki
+Admin=76561198241069974:Moderator  // =SEALZ= Double
+Admin=76561198011063016:Moderator  // =SEALZ= King Da'Kine
+Admin=76561198167191445:Moderator  // =SEALZ= Willow
+Admin=76561197962161340:Moderator  // =SEALZ= Echo1432
+Admin=76561198012765147:Moderator  // =SEALZ= Battleman96
+Admin=76561198021707727:Moderator  // =SEALZ= Ltpimp
+Admin=76561198268088269:Moderator  // =SEALZ= Nine
+Admin=76561198000297201:Moderator  // =SEALZ= Aurex
+Admin=76561198887372201:Moderator  // =SEALZ= Eggpants
+Admin=76561198079007362:Moderator  // =SEALZ= Reese's Pieces
+Admin=76561198110892972:Moderator  // =SEALZ= Karas
+Admin=76561197986291635:Moderator  // =SEALZ= Mister Yoda
+Admin=76561198075443522:Moderator  // =SEALZ= Mr.White
+Admin=76561198094863676:Moderator  // =SEALZ= Mortem
+Admin=76561198015156859:Moderator  // =SEALZ= Dizzy
+Admin=76561197968329240:Moderator  // =SEALZ= Vision40
+Admin=76561198066945044:Moderator  // =SEALZ= Burger
+Admin=76561198083610833:Moderator  // =SEALZ= SerTimko
+Admin=76561198007403419:Moderator  // =SEALZ= Reading
+Admin=76561198974268430:Moderator  // =SEALZ= Vald0sa
+Admin=76561198053678426:Moderator  // =SEALZ= Rich Lin
+
+// ~~~~~~~~~~~~~~~~~ Allies Server Admins ~~~~~~~~~~~~~~~~~~~~~~~~
+Admin=76561198087263902:Moderator  // 9A ♠ Captains Log
+Admin=76561198007149333:Moderator  // 9A ♠ KSinf
+Admin=76561198139821819:Moderator  // Medic (Korean)
+Admin=76561198019107017:Moderator  // Taejun (Korean)
+Admin=76561198333663310:Moderator  // ♚Q♦G♛ ♥PurrrDNursePuss♥ (Q&G Leader)
+Admin=76561198005590210:Moderator  // ♚Q♦G♛ TheMajor
+Admin=76561198019014362:Moderator  // ♚Q♦G♛ Zooluu05
+Admin=76561198043207284:Moderator  // ♚Q♦G♛ CBeetle
+Admin=76561198184797533:Moderator  // Uhtred_Ragnar
+Admin=76561198847553798:Moderator  // BioWolf
+Admin=76561198030554392:Moderator  // HaNaNim
+Admin=76561198836895284:Moderator  // WC Hamx
+Admin=76561198142262452:Moderator  // Tenderly
+
+// ~~~~~~~~~~~~~~~~~ Server Admins with Record ~~~~~~~~~~~~~~~~~~~~~~~~
+Admin=76561198844512085:ModeratorStreamer  // SEALZ - Kenny Bobby
